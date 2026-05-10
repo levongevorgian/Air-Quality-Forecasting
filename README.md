@@ -133,12 +133,7 @@ See [Air Quality Forecasting.ipynb](Air%20Quality%20Forecasting.ipynb) or [Air Q
 - Add experiment tracking and saved model artifacts.
 - Package the workflow so new cities can be forecast with a command-line interface.
 
-## Documentation
-
-- [Full project report](docs/report.md)
-- [Project file guide](docs/project_file_guide.md)
-- [GitHub publishing checklist](docs/github_publish_checklist.md)
-
 ## Author
 
 Levon Gevorgyan
+Spring 2026, American University of Armenia (AUA)
