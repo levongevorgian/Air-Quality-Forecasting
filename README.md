@@ -32,23 +32,6 @@ The objective is to compare SARIMAX, VARMA/VARMAX, and XGBoost forecasting appro
 - VARMA/VARMAX: multivariate pollutant forecasting using PM2.5, NO2, CO, and SO2.
 - XGBoost: supervised recursive forecasting using lag features, rolling features, time features, and pollutant regressors.
 
-## Project Structure
-
-```text
-.
-├── Air Quality Forecasting.ipynb        # Main notebook with EDA, preprocessing, modeling, and forecasts
-├── Air Quality Forecasting.pdf          # Exported report/notebook PDF
-├── Actual_Series.csv                    # Actual PM2.5 observations used for final forecast evaluation
-├── Levon_Gevorgyan_TS_Project_Proposal.pdf
-├── docs/
-│   ├── report.md                        # Project report
-│   ├── project_file_guide.md            # File and folder guide
-│   └── github_publish_checklist.md      # Pre-publishing checklist
-├── requirements_suggested.txt           # Suggested Python dependencies
-├── LICENSE
-└── .gitignore
-```
-
 ## Installation
 
 1. Clone the repository.
